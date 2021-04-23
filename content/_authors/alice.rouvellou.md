@@ -4,10 +4,11 @@ role: Chargée de déploiement
 link: https://www.linkedin.com/in/alice-rouvellou-354198142
 missions:
   - start: 2021-01-11
-    end: 2021-05-07
+    end: 2021-05-31
     status: independent
 startups:
   - peps
+  - Ma cantine
 badges:
   - segur
 ---
